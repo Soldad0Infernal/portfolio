@@ -17,7 +17,7 @@ import logo2 from "/src/img/logo2.png";
 import mysql from "/src/img/mysql.png";
 import node from "/src/img/nodejs.png";
 import react from "/src/img/react.png";
-import pdf from "/src/docs/curriculo.pdf"
+import pdf from "/src/docs/curriculo.pdf";
 
 export const Home = () => {
     return (
