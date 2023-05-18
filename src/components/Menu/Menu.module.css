@@ -1,0 +1,23 @@
+.menu {}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ;
+    padding: 10px;
+
+}
+
+.logo h1 {
+    font-weight: 300;
+    color: white;
+    letter-spacing: -2px;
+    font-size: 75px;
+    margin: 0;
+
+}
+
+.link {
+    text-decoration: none;
+}
