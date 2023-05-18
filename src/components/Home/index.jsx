@@ -66,7 +66,7 @@ export const Home = () => {
                         <p className={style.icons}>Santana de Parnaíba, SP</p>
                         <hr className={style.linha} />
                     </div>
-                    <a href="/src/docs/curriculo.pdf" download>
+                    <a href="src/docs/curriculo.pdf" download>
                         <button className={style.curriculo}>Download Currículo</button>
                     </a>
 
