@@ -17,6 +17,7 @@ import logo2 from "/src/img/logo2.png";
 import mysql from "/src/img/mysql.png";
 import node from "/src/img/nodejs.png";
 import react from "/src/img/react.png";
+import doc from "/src/docs/curriculo.pdf";
 
 export const Home = () => {
     return (
@@ -66,7 +67,7 @@ export const Home = () => {
                         <p className={style.icons}>Santana de Parnaíba, SP</p>
                         <hr className={style.linha} />
                     </div>
-                    <a href="src/assets/curriculo.pdf" download>
+                    <a href={doc} download>
                         <button className={style.curriculo}>Download Currículo</button>
                     </a>
 
